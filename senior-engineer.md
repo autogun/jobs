@@ -13,4 +13,4 @@
 - Willingness to work from the office, given that the governmental COVID-19 regulations permit doing so
 
 
-Interested? Feel free to open a [PR](https://github.com/build-security/jobs/pulls), drop us an email to [jobs@build.security](mailto:jobs@build.security) or reach our on our [website](https://build.security).
+Interested? Feel free to open a [PR](https://github.com/build-security/jobs/pulls), drop us an email to [mission@build.security](mailto:mission@build.security) or reach our on our [website](https://build.security).
