@@ -4,7 +4,7 @@ build.security's platform empowers developers to build runtime access controls f
 
 
 ## Our Tel Aviv office location
-![](https://github.com/build-security/jobs/blob/main/map.png)
+<img src="https://github.com/build-security/jobs/blob/main/map.png" alt="map" height="400" width="500"/>
 
 ## This is us
 here will be a link to our photos folder
