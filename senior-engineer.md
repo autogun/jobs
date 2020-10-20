@@ -9,7 +9,7 @@
 - Knowledge in either .Net Core or Golang
 - Was the "go to" person in the previous company
 - Work experience in an early-stage start-up - an advantage
-- Familiarity with the Open Policy Agent - a *huge* advantage
+- **Familiarity with the Open Policy Agent - a huge advantage**
 - Willingness to work from the office, given that the governmental COVID-19 regulations permit doing so
 
 
