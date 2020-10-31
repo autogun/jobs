@@ -6,8 +6,6 @@ build.security's platform empowers developers to build runtime access controls f
 ## Our Tel Aviv office location
 <img src="https://github.com/build-security/jobs/blob/main/map.png" alt="map" height="400" width="500"/>
 
-## This is us
-here will be a link to our photos folder
 
 ## Open positions
 Note that all positions are full-time (unless mentioned otherwise), and given that the governmental COVID-19 regulations permit doing so - the work is done from our office in Tel-Aviv, Israel.
