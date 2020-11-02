@@ -5,7 +5,7 @@ build.security is setting the standard for modern policy management and enforcem
 
 It’s time to bring maturity and simplicity to authorization, and we’re leading the way with a managed, off-the-shelf policy platform.
 
-We believe that the best security is powered by community. This largely inspired us to open-source our core technology and keep it accessible to all developers. Join us for the ride to bring meaningful change to authorization.
+We believe that the best security is powered by community. This largely inspired us to open-source our core technology and keep it accessible to all developers. Join us as we build the next generation of authorization.
 
 
 ## Our Tel Aviv office location
