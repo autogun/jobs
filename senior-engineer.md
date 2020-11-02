@@ -1,4 +1,4 @@
-## Senior Engineer
+## Senior Software Engineer
 
 - 5+ years of hands-on development
 - Proven skills for leading, end-to-end, complex software projects
